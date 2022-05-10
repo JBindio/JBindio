@@ -1,4 +1,14 @@
-### Hi there 👋
+<!-- 헤더부분(가운데 정렬을위해 html 문법사용) -->
+<p align='center'>
+  <a href="https://github.com/JBindio">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=JungBin's%20Study&fontSize=50"/>
+  </a>
+</p>
+
+## info
+- Name : Lee JungBin
+- Email : bindio@naver.com
+
 
 <!--
 **JBindio/JBindio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
