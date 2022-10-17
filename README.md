@@ -1,5 +1,5 @@
 <a href="https://github.com/JBindio">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=300&section=header&text=JungBin's%20Repositoryrender&fontSize=50")
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=300&section=header&text=JungBin's%20Repository&fontSize=50")
 </a>
 
 ## Profile
