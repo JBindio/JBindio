@@ -1,6 +1,6 @@
-  <a href="https://github.com/JBindio">
-    # JungBin's Repository
-  </a>
+<a href="https://github.com/JBindio">
+# JungBin's Repository
+</a>
 
 ## Profile
 Name : Lee JungBin<br>
