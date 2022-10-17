@@ -1,6 +1,6 @@
 <!-- <p align='center'> -->
   <a href="https://github.com/JBindio">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=FFFFFF&height=250&text=JungBin's%20Repository&fontSize=50&fontAlignY=40&descAlign=80"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=FFFFFF&height=250&text=JungBin's%20Repository&fontSize=50&fontAlignY=40&reversal=true"/>
   </a>
 <!-- </p> -->
 
