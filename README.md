@@ -10,10 +10,12 @@
 - Email : bindio@naver.com
 
 ## Skills
-![python badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=black)
-![Django badge](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=black)
-![Oracle badge](https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=Oracle&logoColor=black)
-![R badge](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=black)
+![python badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![Django badge](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white)
+![Flask badge](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![R badge](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=white)
+![Oracle badge](https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=Oracle&logoColor=white)
+
 
 
 <!--
