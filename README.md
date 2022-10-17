@@ -5,8 +5,8 @@
 </p>
 
 ## Profile
-- Name : Lee JungBin
-- Email : bindio@naver.com
+Name : Lee JungBin
+Email : bindio@naver.com
 
 ## Skills
 ![python badge](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white)
