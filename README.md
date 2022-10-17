@@ -5,7 +5,7 @@
 </p>
 
 ## Profile
-Name : Lee JungBin
+Name : Lee JungBin<br>
 Email : bindio@naver.com
 
 ## Skills
