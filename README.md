@@ -5,9 +5,22 @@
   </a>
 </p>
 
+<p align='center'>
+  <a href="https://github.com/sujinbang">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=SJBANG%20Repository&fontSize=50"/>
+  </a>
+</p>
+
+
 ## info
 - Name : Lee JungBin
 - Email : bindio@naver.com
+
+## Skills
+![python badge](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=white)
+![Django badge](https://img.shields.io/badge/Django-FFFFFF?style=for-the-badge&logo=django&logoColor=white)
+![Oracle badge](https://img.shields.io/badge/Oracle-FFFFFF?style=for-the-badge&logo=Oracle&logoColor=white)
+![R badge](https://img.shields.io/badge/R-FFFFFF?style=for-the-badge&logo=r&logoColor=white)
 
 
 <!--
