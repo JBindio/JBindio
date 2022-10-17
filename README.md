@@ -1,8 +1,9 @@
 <p align='center'>
-<a href="https://github.com/JBindio">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=FFFFFF&height=300&section=header&text=JungBin's%20Repository&fontSize=50&fontAlignY=40"/>
-</a>
-<center>
+  <a href="https://github.com/JBindio">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=FFFFFF&height=300&section=header
+              &text=JungBin's%20Repository&fontSize=50&fontAlignY=40"/>
+  </a>
+<p>
 
 ## Profile
 - Name : Lee JungBin
