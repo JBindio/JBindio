@@ -1,8 +1,8 @@
-<p align='center'>
+<h1>
   <a href="https://github.com/JBindio">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&fontColor=000000&height=280&section=header&text=JungBin's%20Repository&fontSize=50&fontAlignY=40"/>
+    JungBin's Repository
   </a>
-</p>
+</h1>
 
 ## Profile
 Name : Lee JungBin<br>
