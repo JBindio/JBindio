@@ -3,8 +3,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&text=JungBin's%20Repository&fontSize=50"/>
   </a>
 </p>
+
 ## Profile
-Name : Lee JungBin<br>
+Name : Lee JungBin <br>
 Email : bindio@naver.com
 
 ## Skills
