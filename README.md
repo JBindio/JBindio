@@ -5,13 +5,6 @@
   </a>
 </p>
 
-<p align='center'>
-  <a href="https://github.com/sujinbang">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=SJBANG%20Repository&fontSize=50"/>
-  </a>
-</p>
-
-
 ## info
 - Name : Lee JungBin
 - Email : bindio@naver.com
