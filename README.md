@@ -14,8 +14,7 @@ Email : bindio@naver.com
 ![Flask badge](https://img.shields.io/badge/Flask-gray?style=for-the-badge&logo=flask&logoColor=white)
 ![R badge](https://img.shields.io/badge/R-gray?style=for-the-badge&logo=r&logoColor=white)
 ![Oracle badge](https://img.shields.io/badge/Oracle-gray?style=for-the-badge&logo=Oracle&logoColor=white)
-
-## Sub Skills
+<br>
 ![html5 badge](https://img.shields.io/badge/Html5-gray?style=for-the-badge&logo=Html5&logoColor=white)
 ![CSS badge](https://img.shields.io/badge/CSS3-gray?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript badge](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=JavaScript&logoColor=white)
