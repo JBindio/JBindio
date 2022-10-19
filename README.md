@@ -10,7 +10,6 @@ Email : bindio@naver.com
 
 ## Project
 #### 부산 전기차 충전소 현황분석 <br>
-#### 우리에겐 충전이 필요합니다
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/MiniProject?style=for-the-badge&color=black&label=Electronic_Car)](https://github.com/JBindio/MiniProject)
 <br>
 #### 최저임금 만족도 조사를 통한 분석 서비스<br>
