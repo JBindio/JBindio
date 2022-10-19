@@ -16,9 +16,8 @@ Email : bindio@naver.com
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/MiniProject?color=black&label=MiniProject)](https://github.com/JBindio/MiniProject)
 <br>
 #### 영상 내 이미지 텍스트화 서비스
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/Seelearning?color=black&label=FinalProject)](https://github.com/JBindio/Seelearning)
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/Seelearning?color=black&label=PPT)]
-(https://www.canva.com/design/DAFEwkL0e1c/skN0qDskdoEOYP3v-9TVEA/view?utm_content=DAFEwkL0e1c&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/Seelearning?style=for-the-badge&color=black&label=FinalProject)](https://github.com/JBindio/Seelearning)
+
 
 ## Skills
 ![python badge](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white)
