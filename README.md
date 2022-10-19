@@ -17,6 +17,8 @@ Email : bindio@naver.com
 <br>
 #### 영상 내 이미지 텍스트화 서비스
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/Seelearning?color=black&label=FinalProject)](https://github.com/JBindio/Seelearning)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/Seelearning?color=black&label=PPT)]
+(https://www.canva.com/design/DAFEwkL0e1c/skN0qDskdoEOYP3v-9TVEA/view?utm_content=DAFEwkL0e1c&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 <br>
 
 ## Skills
