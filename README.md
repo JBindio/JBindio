@@ -10,13 +10,13 @@ Email : bindio@naver.com
 
 ## Project
 #### 부산 전기차 충전소 현황분석 <br>
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/MiniProject?color=black&label=MiniProject)](https://github.com/JBindio/MiniProject)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/MiniProject?style=for-the-badge&color=black&label=ElectronicCar)](https://github.com/JBindio/MiniProject)
 <br>
 #### 최저임금 만족도 조사를 통한 분석 서비스<br>
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/MiniProject?color=black&label=MiniProject)](https://github.com/JBindio/MiniProject)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/MiniProject?style=for-the-badge&color=black&label=MinimumWage)](https://github.com/JBindio/MiniProject)
 <br>
 #### 영상 내 이미지 텍스트화 서비스
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/Seelearning?style=for-the-badge&color=black&label=FinalProject)](https://github.com/JBindio/Seelearning)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/Seelearning?style=for-the-badge&color=black&label=VideOCR)](https://github.com/JBindio/Seelearning)
 
 
 ## Skills
