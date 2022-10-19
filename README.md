@@ -9,11 +9,11 @@ Name : Lee JungBin <br>
 Email : bindio@naver.com
 
 ## Project
-### 부산 전기차 충전소 현황분석 <br>
+#### 부산 전기차 충전소 현황분석 <br>
 
-### 최저임금 만족도 조사를 통한 분석 서비스<br>
+#### 최저임금 만족도 조사를 통한 분석 서비스<br>
 
-### 영상 내 이미지 텍스트화 서비스
+#### 영상 내 이미지 텍스트화 서비스
 
 ## Skills
 ![python badge](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white)
