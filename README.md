@@ -13,12 +13,10 @@ Email : bindio@naver.com
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/MiniProject?color=black&label=MiniProject)](https://github.com/JBindio/MiniProject)
 <br>
 #### 최저임금 만족도 조사를 통한 분석 서비스<br>
-<a href="https://github.com/JBindio/MiniProject">
-</a>
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/MiniProject?color=black&label=MiniProject)](https://github.com/JBindio/MiniProject)
 <br>
 #### 영상 내 이미지 텍스트화 서비스
-<a href="https://github.com/JBindio/SeeLearning">
-</a>
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/Seelearning?color=black&label=MiniProject)](https://github.com/JBindio/Seelearning)
 <br>
 
 ## Skills
