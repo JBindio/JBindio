@@ -16,7 +16,7 @@ Email : bindio@naver.com
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/MiniProject?style=for-the-badge&color=black&label=Minimum_Wage)](https://github.com/JBindio/MiniProject)
 <br>
 #### 영상 내 이미지 텍스트화 서비스
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/VideOCR?style=for-the-badge&color=black&label=SeeLearning)](https://github.com/JBindio/SeeLearning)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JBindio/VideOCR?style=for-the-badge&color=black&label=See_Learning)](https://github.com/JBindio/SeeLearning)
 
 
 ## Skills
